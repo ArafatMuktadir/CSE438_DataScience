@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/tT_B9r7XhA8
 
 Two public links to the Concept Map (anyone on the internet can view without login):
-PDF: 
+PDF: https://github.com/ArafatMuktadir/CSE438_DataScience/blob/main/Submission%203/Concept%20Map.pdf
 
 Native/original format: 
 https://docs.google.com/document/d/1UYOYRKm4uvR8GAJtV0INtyxdw10BZtm0WzyxwgEudFE/edit?usp=sharing
