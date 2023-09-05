@@ -11,7 +11,7 @@ Paper title:
 City Environmental Noise Classification
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/
+https://docs.google.com/presentation/d/1M4NwzrJ7NR5dfHDS9015ruqH_x4gzMijU4mDu-Crs9c/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
